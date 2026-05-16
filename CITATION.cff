@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "A Hardware-Centric Deterministic Telemetry Architecture for FPGA-Based Real-Time Systems"
+message: "If you use this artifact, please cite the associated FPL 2026 paper."
+type: software
+authors:
+  - family-names: Yayla
+    given-names: Ayşe
+  - family-names: Korkmaz
+    given-names: Ceren
+  - family-names: Bulut
+    given-names: Büşra
+license: MIT
+version: 1.0.0
+date-released: 2026-05-16
